@@ -10,4 +10,4 @@ This repository contains study projects done within Data Analytics course at Yan
 
 | #   | Project name           | Description                 | Libraries used                 |
 | :-- | :--------------------- | :-------------------------- | :---------------------------   |
-| 1   | [Music streaming](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparison of users' preferences from Moscow and St.Petersburg | pandas
+| 1   | [Music streaming] (https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparison of users' preferences from Moscow and St.Petersburg | pandas
