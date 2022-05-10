@@ -10,5 +10,5 @@ This repository contains study projects done within Data Analytics course at Yan
 
 |#| Project name           | Project description                 | Learning topic                 | Tech skills used                 |
 | :-- | :--------------------- | :-------------------------- | :-------------------------- | :---------------------------   |
-| 1   | [Music streaming](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparison of users' preferences from Moscow and St.Petersburg | Basic Python | pandas, Jupyter Notebook
-| 2   | [Credit scoring](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparison of users' preferences from Moscow and St.Petersburg | Basic Python | pandas, Jupyter Notebook
+| 1   | [Music streaming](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparison of users' preferences from Moscow and St.Petersburg | Basic Python | pandas
+| 2   | [Credit scoring](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Finding out what affects repaying the loan on time | Data Preparation | pandas
