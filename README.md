@@ -12,5 +12,4 @@ This repository contains study projects done within Data Analytics course at Yan
 | :-- | :--------------------- | :-------------------------- | :-------------------------- | :---------------------------   |
 | 1   | [Music streaming](https://github.com/vdmilov/data_analytics_projects/tree/main/Music%20streaming)        | Comparing users' preferences from Moscow and St.Petersburg | Basic Python | pandas
 | 2   | [Credit scoring](https://github.com/vdmilov/data_analytics_projects/tree/main/Credit%20scoring)        | Finding out what affects repaying the loan on time | Data Preparation | pandas
-| 3   | [Real estate](https://github.com/vdmilov/data_analytics_projects/tree/main/Real%20estate)        | Determining the market value of real estate | Exploratory Data Analysis
- | pandas
+| 3   | [Real estate](https://github.com/vdmilov/data_analytics_projects/tree/main/Real%20estate)        | Determining the market value of real estate | Exploratory Data Analysis | pandas
