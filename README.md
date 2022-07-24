@@ -15,3 +15,4 @@ This repository contains study projects done within Data Analytics course at Yan
 | 3   | [Real estate](https://github.com/vdmilov/data_analytics_projects/tree/main/Real%20estate)        | Determining the market value of real estate | Exploratory Data Analysis | pandas
 | 4   | [Telecom](https://github.com/vdmilov/data_analytics_projects/tree/main/Telecom)        | Comparing telecom tariffs | Statistical Data Analysis | pandas, scipy
 | 5   | [Games](https://github.com/vdmilov/data_analytics_projects/tree/main/Games)        | Analysing games across platforms and regions | Module Intermediate Project | pandas, scipy, seaborn
+| 6   | [Marketing analysis](https://github.com/vdmilov/data_analytics_projects/tree/main/Marketing%20analysis)        | Finding out whether advertising pays off across different dimensions | Cohort analysis and metrics (LTV, CAC, ROI) | pandas
