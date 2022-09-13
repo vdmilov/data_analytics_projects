@@ -16,5 +16,5 @@ This repository contains study projects done within Data Analysis course at Yand
 | 4   | [Telecom](https://github.com/vdmilov/data_analytics_projects/tree/main/Telecom)        | Comparing telecom tariffs | Statistical Data Analysis | pandas, scipy
 | 5   | [Games](https://github.com/vdmilov/data_analytics_projects/tree/main/Games)        | Analysing games across platforms and regions | Module Intermediate Project | pandas, scipy, seaborn
 | 6   | [Marketing analysis](https://github.com/vdmilov/data_analytics_projects/tree/main/Marketing%20analysis)        | Finding out whether advertising pays off across different dimensions | Cohort analysis and main metrics (LTV, CAC, ROI) | pandas
-| 7   | [Advanced SQL project](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTE, joins | SQL | PostreSQL, sqlalchemy
+| 7   | [Advanced SQL](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTEs, joins | SQL | PostreSQL, sqlalchemy
 | 8   | [A/B testing](https://github.com/vdmilov/data_analytics_projects/tree/main/AB%20testing)        | Interpreting the results of A/B tests | Decision making | pandas, scipy, seaborn
