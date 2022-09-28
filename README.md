@@ -14,7 +14,8 @@ This repository contains study projects done within Data Analysis course at Yand
 | 2   | [Credit scoring](https://github.com/vdmilov/data_analytics_projects/tree/main/Credit%20scoring)        | Finding out what affects repaying the loan on time | Data Preparation | pandas
 | 3   | [Real estate](https://github.com/vdmilov/data_analytics_projects/tree/main/Real%20estate)        | Determining the market value of real estate | Exploratory Data Analysis | pandas
 | 4   | [Telecom](https://github.com/vdmilov/data_analytics_projects/tree/main/Telecom)        | Comparing telecom tariffs | Statistical Data Analysis | pandas, scipy
-| 5   | [Games](https://github.com/vdmilov/data_analytics_projects/tree/main/Games)        | Analysing games across platforms and regions | Module Intermediate Project | pandas, scipy, seaborn
+| 5   | [Games](https://github.com/vdmilov/data_analytics_projects/tree/main/Games)        | Analysing games across platforms and regions | Module Intermediate Project 1 | pandas, scipy, seaborn
 | 6   | [Marketing analysis](https://github.com/vdmilov/data_analytics_projects/tree/main/Marketing%20analysis)        | Finding out whether advertising pays off across different dimensions | Cohort analysis and main metrics (LTV, CAC, ROI) | pandas
 | 7   | [Advanced SQL](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTEs, joins | SQL | PostreSQL, sqlalchemy
 | 8   | [A/B testing](https://github.com/vdmilov/data_analytics_projects/tree/main/AB%20testing)        | Interpreting the results of A/B tests | Decision making | pandas, scipy, seaborn
+| 9   | [Event analytics](https://github.com/vdmilov/data_analytics_projects/tree/main/Event%20analytics)        | Analysing sales funnel and interpreting the results of A/A/B tests | Module Intermediate Project 2 | pandas, scipy, plotly
