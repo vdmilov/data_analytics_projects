@@ -19,3 +19,6 @@ This repository contains study projects done within Data Analysis course at Yand
 | 7   | [Advanced SQL](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTEs, joins | SQL | PostreSQL, sqlalchemy
 | 8   | [A/B testing](https://github.com/vdmilov/data_analytics_projects/tree/main/AB%20testing)        | Interpreting the results of A/B tests | Decision making | pandas, scipy, seaborn
 | 9   | [Event analytics](https://github.com/vdmilov/data_analytics_projects/tree/main/Event%20analytics)        | Analysing sales funnel and interpreting the results of A/A/B tests | Module Intermediate Project 2 | pandas, scipy, plotly
+| 10   | [Market research of eating places](https://github.com/vdmilov/data_analytics_projects/tree/main/Market%20research%20of%20eating%20places)        | Conduct market research and visualise findings | Visualisation | pandas, plotly, seaborn, folium
+
+
