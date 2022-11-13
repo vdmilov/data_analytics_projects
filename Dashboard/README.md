@@ -1,18 +1,7 @@
 # User interaction on Yandex media platform
 
-## Scope of the project
-
-**The goal**:
-- Create a dashboard for managers
-
-**Input data**: 
-- We have data with users interactions on the platform on 24.09.2019 from 18:28 till 19:00
-
-**Analysis structure**:
-* Data overview
-* Terms of reference
-* Links
-* Results
+## Links
+Link to the dashboard: https://public.tableau.com/views/Yandex_Dzen_dashboard/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Terms of reference
 After talking with managers and database administrators, we wrote a brief terms of reference:  
