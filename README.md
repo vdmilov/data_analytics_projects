@@ -11,7 +11,7 @@ This repository contains study projects done within Data Analysis course at Yand
 |#| Project name           | Project goal                 | Learning topic                 | Skills used                 |
 | :-- | :--------------------- | :-------------------------- | :-------------------------- | :---------------------------   |
 | 12   | [Banking](https://github.com/vdmilov/data_analytics_projects/tree/main/Banking)        | Lower churn rate with the help of user segmentation | Final project | pandas, plotly, phik, scipy, statsmodels 
-| 11   | [Dashboard](https://github.com/vdmilov/data_analytics_projects/tree/main/)        | Create dashboard | Dashboards | Tableau
+| 11   | [Dashboard](https://github.com/vdmilov/data_analytics_projects/tree/main/Dashboard)        | Create dashboard for managers | Dashboards | Tableau, pandas, sqlalchemy
 | 10   | [Market research of eating places](https://github.com/vdmilov/data_analytics_projects/tree/main/Market%20research%20of%20eating%20places)        | Conduct market research and visualise findings | Visualisation | pandas, plotly, seaborn, folium
 | 9   | [Event analytics](https://github.com/vdmilov/data_analytics_projects/tree/main/Event%20analytics)        | Analysing sales funnel and interpreting the results of A/A/B tests | Module Intermediate Project 2 | pandas, scipy, plotly
 | 8   | [A/B testing](https://github.com/vdmilov/data_analytics_projects/tree/main/AB%20testing)        | Interpreting the results of A/B tests | Decision making | pandas, scipy, seaborn
