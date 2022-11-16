@@ -15,7 +15,7 @@ This repository contains study projects done within Data Analysis course at Yand
 | 10   | [Market research of eating places](https://github.com/vdmilov/data_analytics_projects/tree/main/Market%20research%20of%20eating%20places)        | Conduct market research and visualise findings | Visualisation | pandas, plotly, seaborn, folium
 | 9   | [Event analytics](https://github.com/vdmilov/data_analytics_projects/tree/main/Event%20analytics)        | Analysing sales funnel and interpreting the results of A/A/B tests | Module Intermediate Project 2 | pandas, scipy, plotly
 | 8   | [A/B testing](https://github.com/vdmilov/data_analytics_projects/tree/main/AB%20testing)        | Interpreting the results of A/B tests | Decision making | pandas, scipy, seaborn
-| 7   | [Advanced SQL](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTEs, joins | SQL | PostreSQL, sqlalchemy
+| 7   | [Advanced SQL](https://github.com/vdmilov/data_analytics_projects/tree/main/Advanced%20SQL)        | Solving hard exercises using window functions, CTEs, joins | SQL | PostgreSQL, sqlalchemy
 | 6   | [Marketing analysis](https://github.com/vdmilov/data_analytics_projects/tree/main/Marketing%20analysis)        | Finding out whether advertising pays off across different dimensions | Cohort analysis and main metrics (LTV, CAC, ROI) | pandas
 | 5   | [Games](https://github.com/vdmilov/data_analytics_projects/tree/main/Games)        | Analysing games across platforms and regions | Module Intermediate Project 1 | pandas, scipy, seaborn
 | 4   | [Telecom](https://github.com/vdmilov/data_analytics_projects/tree/main/Telecom)        | Comparing telecom tariffs | Statistical Data Analysis | pandas, scipy
