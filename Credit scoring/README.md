@@ -1,6 +1,7 @@
 # Credit Scoring
 
 ## Results
+We analyzed 7 parameters:
 * Children: People with no kids fail on paying the loan on time less often that people with children  
 * Family status: People who lost their partners or divorced have way lower indebtness ratios than single people  
 * Income level: There is no clear correlation between the level of income and indebtness: people earning the most have the highest levels of failing to pay on time, which is counter intuitive  
